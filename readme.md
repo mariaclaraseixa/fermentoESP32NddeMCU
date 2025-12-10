@@ -1,7 +1,7 @@
 # Projeto Fermento — Integração de Sensores (ESP8266 HW-364A)
 
-Este documento descreve o funcionamento do programa **todosSensoresConectados.c**, incluindo o esquema completo de cabeamento dos sensores utilizados e a explicação detalhada do código.  
-O objetivo é fornecer documentação clara, profissional e voltada ao uso acadêmico.
+Este documento descreve o funcionamento do programa **todosSensoresConectados.c**,  esquema completo de cabeamento dos sensores utilizados e explicação detalhada do código.  
+
 
 ---
 
